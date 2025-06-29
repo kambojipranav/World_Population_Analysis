@@ -1,7 +1,7 @@
 
 ---
 
-### 📁 3. `prodigy_1st_task.ipynb`
+### 📁 3. `World_Population Distribution analysis`
 
 ```markdown
 # 🌟 Prodigy First Task - Exploratory Data Project
