@@ -1,7 +1,7 @@
 
 ---
 
-### 📁 3. `World_Population Distribution analysis`
+### 📁  `World_Population Distribution analysis`
 
 ```markdown
 # 🌟 Prodigy First Task - Exploratory Data Project
